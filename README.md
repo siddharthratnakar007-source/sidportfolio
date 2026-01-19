@@ -13,7 +13,3 @@
 - 👨‍💻 All of my projects are available at HERE
 
 - 📫 How to reach me **SIDDHARTHRATNKAR007**
-
-- ⚡ Fun fact **I think, am developing a new app🤔**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumeetceh" alt="siddharthratnakar007" /></a> </p>
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=SUMEETCEH&theme=radical&hide_border=true)](https://git.io/streak-stats)
