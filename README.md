@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/siddharthratnakar007-source/sidportfolio/blob/main/VID-20260124-WA0004.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthratnakar007&label=Profile%20views&color=0e75b6&style=flat" alt="sumeetceh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=siddharthratnakar007&label=Profile%20views&color=0e75b6&style=flat" alt" /> </p>
 
 - 🔭 Continuing with masters of **Computer Application**
 
