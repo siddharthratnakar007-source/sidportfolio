@@ -1,4 +1,4 @@
-![logo](htt) 
+![logo](https://github.com/siddharthratnakar007-source/sidportfolio/blob/main/IMG-20260129-WA0009.jpg) 
 <h1 align="center">Hi 👋, I'm Siddharth Ratnakar</h1>
 <h3 align="center">A passionate CyberSecurity from India</h3>
 
