@@ -1,6 +1,6 @@
 ![logo](https://github.com/siddharthratnakar007-source/sidportfolio/blob/main/IMG-20260129-WA0009.jpg) 
 <h1 align="center">Hi 👋, I'm Siddharth Ratnakar</h1>
-<h3 align="center">A passionate CyberSecurity from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/siddharthratnakar007-source/sidportfolio/blob/main/VID-20260124-WA0004.gif">
 
