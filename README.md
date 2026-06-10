@@ -8,7 +8,7 @@
 
 - 🔭 Continuing with masters of **Computer Application**
 
-- 🌱 Learnt **CyberSecurity, CEH as my core subjects**
+- 🌱 Learnt **Data Analyst, Analysis as my core subjects**
 
 - 👨‍💻 All of my projects are available at HERE
 
